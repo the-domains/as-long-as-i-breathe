@@ -1,8 +1,7 @@
 name: As long as I breathe
 favicon: null
-layout_spectrum: 0.25398
-typography_spectrum: 0.13235
-title: As Long As I Breathe
+layout_spectrum: 0.14826246607117355
+typography_spectrum: 0.29599163751117885
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.7403155711945146
+  lightness: 0.8827855247072875
+  saturation: 0.7628087110351771
+  rhythmicContrast: 0.5651572498027235
 purpose: []
